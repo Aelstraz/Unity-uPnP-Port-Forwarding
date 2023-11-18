@@ -1,4 +1,4 @@
-## Unity uPnP Port Forwarding (NAT)
+## C#/Unity uPnP Port Forwarding (NAT)
 
 Uses the [Open.NAT](https://github.com/lontivero/Open.NAT) (based on [Mono.NAT](https://github.com/alanmcgovern/Mono.Nat)) library to automatically forward ports on the users router via the Universal Plug And Play (uPnP) protocol. The most common usage is to allow users to host their own peer-to-peer servers online, without the need to manually forward their ports according to the games network settings. Note that your router must support uPnP and have it enabled in order for this to work, otherwise the user will still have to manually forward their ports. It is recommended that you check out the included example scene and example script to learn more about usage. Tested on Win & Mac.
 
