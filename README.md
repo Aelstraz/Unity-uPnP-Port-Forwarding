@@ -35,4 +35,4 @@ Optional. Returns all error/debug messages generated in session as an array.
 	uPnPHelper.GetDebugMessages();
 Optional. Returns all error/debug messages generated in session as a single formatted string.
 ***
-### Twitter: [@jakegwizdak](https://twitter.com/JakeGwizdak)
+### Twitter: [@aelstraz](https://twitter.com/Aelstraz)
